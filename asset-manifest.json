@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rasamfriends/static/css/main.60711a31.chunk.css",
+    "main.js": "/rasamfriends/static/js/main.b73d6bad.chunk.js",
+    "main.js.map": "/rasamfriends/static/js/main.b73d6bad.chunk.js.map",
+    "runtime-main.js": "/rasamfriends/static/js/runtime-main.50c5a696.js",
+    "runtime-main.js.map": "/rasamfriends/static/js/runtime-main.50c5a696.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/rasamfriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.62f1875a.chunk.js": "/rasamfriends/static/js/2.62f1875a.chunk.js",
+    "static/js/2.62f1875a.chunk.js.map": "/rasamfriends/static/js/2.62f1875a.chunk.js.map",
+    "index.html": "/rasamfriends/index.html",
+    "precache-manifest.784eeb01e4aa557363952a6eb6dd4517.js": "/rasamfriends/precache-manifest.784eeb01e4aa557363952a6eb6dd4517.js",
+    "service-worker.js": "/rasamfriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/rasamfriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.60711a31.chunk.css.map": "/rasamfriends/static/css/main.60711a31.chunk.css.map",
+    "static/js/2.62f1875a.chunk.js.LICENSE.txt": "/rasamfriends/static/js/2.62f1875a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50c5a696.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.62f1875a.chunk.js",
+    "static/css/main.60711a31.chunk.css",
+    "static/js/main.b73d6bad.chunk.js"
+  ]
+}
